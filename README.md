@@ -2,7 +2,7 @@
 It is an Example program that can be uploaded to a 68k mac using [stm_send](https://github.com/tscolan/stm_send). It display a picture of a cat.
 
 # Inspiration
-I was inspired by the work of David Ludwig's [MacRomPicture](https://github.com/DavidLudwig/MacRomPicture). He made a ROM for Mac Plus in C ++ used to display an image on the screen.
+I was inspired by the work of @DavidLudwig on [MacRomPicture](https://github.com/DavidLudwig/MacRomPicture). He made a ROM for Mac Plus in C ++ used to display an image on the screen.
 
 As i was using a Mac SE/30, it was necessary to modify the code, which is specific to a Mac Plus. I had to adapt the management of the stack in order to be able to return to "Diagnostic Mode" after execution; it is thus possible to perform several tests without having to press the interrupt button again each time.
 
