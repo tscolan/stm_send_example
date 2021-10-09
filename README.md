@@ -11,3 +11,8 @@ I was inspired by the work of David Ludwig's [MacRomPicture](https://github.com/
 
 # Results
 ![My cat, Harry](https://www-scolan-net.translate.goog/wp-content/uploads/2021/10/20211008_174800-scaled.jpg)
+
+# References
+- [My Original post in French](https://www.scolan.net/utilisation-du-diagnostic-mode-sur-macintosh-se-30/) ([google translated to english](https://www-scolan-net.translate.goog/utilisation-du-diagnostic-mode-sur-macintosh-se-30/?_x_tr_sl=fr&_x_tr_tl=en))
+- [stm_send](https://github.com/tscolan/stm_send)
+- David Ludwig's [MacRomPicture](https://github.com/DavidLudwig/MacRomPicture)
