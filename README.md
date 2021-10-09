@@ -1,5 +1,5 @@
 # What is stm_send_example
-It is an Example program that can be uploaded to a 68k mac with [stm_send](https://github.com/tscolan/stm_send). It display a picture of a cat.
+It is an Example program that can be uploaded to a 68k mac using [stm_send](https://github.com/tscolan/stm_send). It display a picture of a cat.
 
 # Inspiration
 I was inspired by the work of David Ludwig's [MacRomPicture](https://github.com/DavidLudwig/MacRomPicture). He made a ROM for Mac Plus in C ++ used to display an image on the screen.
