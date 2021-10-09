@@ -18,5 +18,5 @@ Oh, and my cat wanted me to change the picture displayed on the Mac...
 
 # References
 - [My Original post in French](https://www.scolan.net/utilisation-du-diagnostic-mode-sur-macintosh-se-30/) ([google translated to english](https://www-scolan-net.translate.goog/utilisation-du-diagnostic-mode-sur-macintosh-se-30/?_x_tr_sl=fr&_x_tr_tl=en))
-- [stm_send](https://github.com/tscolan/stm_send)
+- [stm_send](https://github.com/tscolan/stm_send) tool
 - David Ludwig's [MacRomPicture](https://github.com/DavidLudwig/MacRomPicture)
