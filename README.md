@@ -4,9 +4,9 @@ It is an Example program that can be uploaded to a 68k mac using [stm_send](http
 # Inspiration
 I was inspired by the work of David Ludwig's [MacRomPicture](https://github.com/DavidLudwig/MacRomPicture). He made a ROM for Mac Plus in C ++ used to display an image on the screen.
 
-Obviously it was necessary to modify the code, which is specific to a Mac Plus, and I had to adapt the management of the stack in order to be able to return to "Diagnostic Mode" after execution; it is thus possible to perform several tests without having to press the interrupt button again each time.
+As i was using a Mac SE/30, it was necessary to modify the code, which is specific to a Mac Plus. I had to adapt the management of the stack in order to be able to return to "Diagnostic Mode" after execution; it is thus possible to perform several tests without having to press the interrupt button again each time.
 
-Although, my cat wanted me to change the picture displayed on the Mac...
+Oh, and my cat wanted me to change the picture displayed on the Mac...
 
 # Use
 1. you need the [stm_send](https://github.com/tscolan/stm_send) tool and a mac 68k with Diagnostic mode
